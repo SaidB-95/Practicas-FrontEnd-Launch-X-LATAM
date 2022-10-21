@@ -34,3 +34,4 @@ El flujo de funcionamiento de la aplicación debe mantenerse lo más simple posi
 3. Encuentra todos los casos activos y selecciona el que es de su interés. También puede ingresar desde las notificaciones, pues cada nuevo caso genera una notificación en el perfil del administrador.
 4. Puede ver el documento word generado automáticamente con los datos que el usuario ingresó en el formulario.
 5. Puede agregar actualizaciones, comentarios o solicitudes adicionales para el usuario, según el progreso del caso.
+6. El administrador puede ver el histórico de pagos y de casos (tanto abiertos como cerrados) desde un dashboard. Estos datos pueden ser descargados por el administrador para generar los análisis de ingresos y éxito en los casos.
