@@ -27,11 +27,11 @@ El flujo de funcionamiento de la aplicación debe mantenerse lo más simple posi
 4. Hace clic en **"Enviar Formulario"**.
 5. Es redirigido a la pasarela de pagos y selecciona el de su preferencia.
 6. Luego de procesar su pago recibe un comprobante y un número de folio o seguimiento de caso. (***El comprobante y el folio, así como cada actualización del caso, serán recibidos en el correo electrónico del usuario***)
-7. El usuario puede seleccionar el panel de control (o seguimiento de caso) para ver todas las actualizaciones de su caso, responder solicitudes del administrador o agregar peticiones que sean pertinentes para cada caso.
+7. El usuario puede seleccionar el panel de control (o seguimiento de caso) para ver todas las actualizaciones de su caso, responder solicitudes del administrador o agregar peticiones que sean pertinentes para cada caso. Todo esto también llega como notificación cada vez que el administrador hace un cambio.
 ### Administrador
 1. Inicia sesión.
 2. Ingresa al panel de control.
 3. Encuentra todos los casos activos y selecciona el que es de su interés. También puede ingresar desde las notificaciones, pues cada nuevo caso genera una notificación en el perfil del administrador.
 4. Puede ver el documento word generado automáticamente con los datos que el usuario ingresó en el formulario.
-5. Puede agregar actualizaciones, comentarios o solicitudes adicionales para el usuario, según el progreso del caso.
+5. Puede agregar actualizaciones, comentarios o solicitudes adicionales para el usuario, según el progreso del caso. Si el usuario responde un comentario o agrega alguna solicitud, el administrador recibe una notificación.
 6. El administrador puede ver el histórico de pagos y de casos (tanto abiertos como cerrados) desde un dashboard. Estos datos pueden ser descargados por el administrador para generar los análisis de ingresos y éxito en los casos.
