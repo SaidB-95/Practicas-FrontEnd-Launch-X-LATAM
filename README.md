@@ -3,4 +3,3 @@ En este repositorio serán subidas todas la prácticas de la misión FrontEnd de
 - [01.- INTRO (Abogabot)](https://github.com/SaidB-95/Practicas-FrontEnd-Launch-X-LATAM/tree/main/01.-%20INTRO%20(Abogabot))
   - [Toma de Requerimientos](https://github.com/SaidB-95/Practicas-FrontEnd-Launch-X-LATAM/blob/main/01.-%20INTRO%20(Abogabot)/Toma%20de%20Requerimientos.md)
   - [Buyer Persona](https://github.com/SaidB-95/Practicas-FrontEnd-Launch-X-LATAM/blob/main/01.-%20INTRO%20(Abogabot)/Buyer%20Persona.md)
-  - [Público Objetivo](https://github.com/SaidB-95/Practicas-FrontEnd-Launch-X-LATAM/blob/f0d4ab79f1d44d5194669afcaf71fc7befd7cf68/01.-%20INTRO%20(Abogabot)/P%C3%BAblico%20objetivo.md)
