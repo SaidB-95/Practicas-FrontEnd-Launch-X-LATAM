@@ -35,3 +35,5 @@ El flujo de funcionamiento de la aplicación debe mantenerse lo más simple posi
 4. Puede ver el documento word generado automáticamente con los datos que el usuario ingresó en el formulario.
 5. Puede agregar actualizaciones, comentarios o solicitudes adicionales para el usuario, según el progreso del caso. Si el usuario responde un comentario o agrega alguna solicitud, el administrador recibe una notificación.
 6. El administrador puede ver el histórico de pagos y de casos (tanto abiertos como cerrados) desde un dashboard. Estos datos pueden ser descargados por el administrador para generar los análisis de ingresos y éxito en los casos.
+
+[Volver a la página principal](https://github.com/SaidB-95/Practicas-FrontEnd-Launch-X-LATAM/blob/main/README.md)
