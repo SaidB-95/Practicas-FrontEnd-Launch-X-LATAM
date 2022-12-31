@@ -8,10 +8,10 @@ En este repositorio serán subidas todas la prácticas de la misión FrontEnd de
 - **PASTELERÍA**
   - [HTML](https://github.com/SaidB-95/Practicas-FrontEnd-Launch-X-LATAM/blob/883dee8d230d12aa3bc17189e4326031455049a8/02.-%20Pasteler%C3%ADa/Index.html)
   - [CSS](https://github.com/SaidB-95/Practicas-FrontEnd-Launch-X-LATAM/blob/883dee8d230d12aa3bc17189e4326031455049a8/02.-%20Pasteler%C3%ADa/styles.css)
-  - [Deployment](https://saidb-95.github.io/merak/){:target="_blank"}
+  - [Deployment](https://saidb-95.github.io/merak/)
 
 - **POKÉDEX**
   - [HTML](https://github.com/SaidB-95/Practicas-FrontEnd-Launch-X-LATAM/blob/3f43da944708cf4403e75b58e57dccbec4618eb7/04.-%20Pok%C3%A9dex/pokedex.html)
   - [CSS](https://github.com/SaidB-95/Practicas-FrontEnd-Launch-X-LATAM/blob/3f43da944708cf4403e75b58e57dccbec4618eb7/04.-%20Pok%C3%A9dex/pokedex.css)
   - [JS](https://github.com/SaidB-95/Practicas-FrontEnd-Launch-X-LATAM/blob/3f43da944708cf4403e75b58e57dccbec4618eb7/04.-%20Pok%C3%A9dex/pokedex.js)
-  - [Deployment](https://saidb-95.github.io/pokedex/){:target="_blank"}
+  - [Deployment](https://saidb-95.github.io/pokedex/)
